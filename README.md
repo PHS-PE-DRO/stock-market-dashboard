@@ -8,9 +8,6 @@ Este projeto tem como objetivo analisar o comportamento do mercado de ações po
 
 A ferramenta também permite filtrar as informações por empresa e mês, facilitando a comparação de resultados e a identificação de tendências que podem apoiar análises e tomadas de decisão.
 
-## Confira abaixo como ficou a tela principal do projeto:
-![Projeto dashboard - Mercado de Ações](dashboard-mercado de ações.png)
-
 ## Tecnologias Utilizadas
 
 - **Power BI:** desenvolvimento do dashboard e criação das visualizações interativas.
@@ -28,3 +25,6 @@ Para visualizar o projeto, é necessário ter o **Power BI Desktop** instalado.
 3. Explore os gráficos, as tabelas e os filtros disponíveis para analisar os dados do mercado de ações.
 
 O arquivo `.pbix` contém o dashboard desenvolvido e permite explorar suas visualizações interativas.
+## Confira abaixo como ficou a tela principal do projeto:
+![Projeto dashboard - Mercado de Ações](dashboard-mercado de ações.png)
+
